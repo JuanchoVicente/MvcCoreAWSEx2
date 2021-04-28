@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ServiceDepartamentosRDSMSql</name>
+    </assembly>
+    <members>
+        <member name="M:ServiceDepartamentosRDSMSql.Controllers.DepartamentosController.GetDepartamentos">
+            <summary>
+            Lista de departamentos
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ServiceDepartamentosRDSMSql.Controllers.DepartamentosController.FindDepartamento(System.Int32)">
+            <summary>
+            Buscar un departamento por su identificador
+            </summary>
+            <param name="id"></param>
+            <returns></returns>       
+        </member>
+    </members>
+</doc>
